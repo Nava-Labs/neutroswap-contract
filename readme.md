@@ -13,6 +13,6 @@ Audited by Solidproof
 https://github.com/solidproof/projects/tree/main/NeutroSwap
 
 ## Contacts
-Twitter Official: https://twitter.com/Neutroswap
-Telegram: https://t.me/neutroswap
-Discord: https://discord.gg/42USuj63eE
+- Twitter Official: https://twitter.com/Neutroswap
+- Telegram: https://t.me/neutroswap
+- Discord: https://discord.gg/42USuj63eE
